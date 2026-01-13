@@ -1,0 +1,8 @@
+streamlit 
+paho-mqtt 
+plotly 
+pandas 
+numpy 
+joblib 
+scikit-learn 
+streamlit-autorefresh
